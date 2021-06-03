@@ -15,7 +15,7 @@ I am a software developer in [ColoredCow](https://coloredcow.com) who's passiona
 
 
 <img align="center" src="https://github-readme-stats.vercel.app/api?username=sohanmer&show_icons=true&hide=stars&line_height=27&include_all_commits=true&7&count_private=true&theme=default" alt="Sohan's GitHub" />  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sohanmer&langs_count=8&layout=compact&theme=default" /> 
-![](https://visitor-badge.glitch.me/badge?page_id=sohanmer.sohanmer)
+
 <!--
 **sohanmer/sohanmer** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
