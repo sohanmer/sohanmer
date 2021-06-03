@@ -1,4 +1,4 @@
-### Hello World! 👋
+### Hello World! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
 I am a software developer in [ColoredCow](https://coloredcow.com) who's passionate about making a positive change through programming and problem solving in a meaningful and scalable way. 
 
  #### 📫 How to reach me:   
