@@ -11,6 +11,8 @@ I am a software developer in [ColoredCow](https://coloredcow.com) who's passiona
 ![](https://badges.aleen42.com/src/docker.svg)
 ![](https://badges.aleen42.com/src/javascript.svg)
 ![](https://img.shields.io/badge/Code-Laravel-informational?style=flat&logo=laravel&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/Shell-GitBash-informational?style=flat&logo=gitBash&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/Tools-MySQL-informational?style=flat&logo=mysql&logoColor=white&color=2bbc8a)
 
 
 
