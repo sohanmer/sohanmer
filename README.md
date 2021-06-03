@@ -18,7 +18,7 @@ I am a software developer in [ColoredCow](https://coloredcow.com) who's passiona
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sohanmer&hide=java,CSS,html&theme=vue&langs_count=8&layout=compact" />
 </a>
 <a href="https://github.com/sohanmer/sohanmer">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=;sohanmer&show_icons=true&hide=stars&line_height=27&count_private=true&theme=vue" alt="Sohan's GitHub Stats" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=sohanmer&show_icons=true&hide=stars&line_height=27&count_private=true&theme=vue" alt="Sohan's GitHub Stats" />
 </a>
 <!--
 **sohanmer/sohanmer** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
