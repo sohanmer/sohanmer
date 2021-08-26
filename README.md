@@ -1,5 +1,5 @@
 ### Hello World! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
-I am a software developer in [ColoredCow](https://coloredcow.com) who's passionate about making a positive change through programming and problem solving in a meaningful and scalable way. 
+I am a software developer with a good hand in ReactJS, Laravel, Django and passionate about making a positive change through programming and problem solving in a meaningful and scalable way. 
 
  #### 📫 Feel free to reach on:   
   
