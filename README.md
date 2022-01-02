@@ -1,7 +1,7 @@
 ### Hello World! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
 I am a software developer with a good hand in ReactJS, Laravel, Django and passionate about making a positive change through programming and problem solving in a meaningful and scalable way. 
 
- #### 📫 Feel free to reach on:   
+ #### 📫 Feel free to me reach on:   
   
 [<img src="https://img.icons8.com/color/48/000000/linkedin.png" width="3.5%"/>](https://www.linkedin.com/in/sohan-mer-b7ab6510b/)
 <a href="mailto:sohan.mer@coloredcow.com"> <img src="https://img.icons8.com/fluent/48/000000/gmail.png" width="3.5%"/> </a> 
