@@ -16,7 +16,7 @@ I am a software developer with a good hand in ReactJS, Laravel, Django and passi
 
 
 
-<!-- <img align="center" src="https://github-readme-stats.vercel.app/api?username=sohanmer&show_icons=true&hide=stars&line_height=27&include_all_commits=true&7&count_private=true&theme=default" alt="Sohan's GitHub" />  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sohanmer&langs_count=8&layout=compact&theme=default" />  -->
+<img align="center" src="https://github-readme-stats.vercel.app/api?username=sohanmer&show_icons=true&hide=stars&line_height=27&include_all_commits=true&7&count_private=true&theme=default" alt="Sohan's GitHub" />  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sohanmer&langs_count=8&layout=compact&theme=default" /> 
 [![Sohan's GitHub stats](https://github-readme-stats.vercel.app/api?username=sohanmer)](https://github.com/sohanmer/github-readme-stats)
 
 <!--
